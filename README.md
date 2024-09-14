@@ -10,12 +10,12 @@ This repository contains code for instagram reach forecasting using historical d
 3. Run the cells in the notebook to perform the analysis and model training
 # Structure
 instagram-reach-forecasting/
-├── data/
-│ └── Instagram-Reach.csv # Your dataset
-├── scripts/
-│ └── forecast_reach.ipynb # Jupyter notebook
-├── .gitignore # Git ignore file
-└── README.md # README file with instructions
+├ data/
+│ Instagram-Reach.csv # Your dataset
+├ scripts/
+│ forecast_reach.ipynb # Jupyter notebook
+├ .gitignore # Git ignore file
+└ README.md # README file with instructions
 # Description
 This project includes features that are mentioned below 
 1. Data Import and Preprocessing: 
