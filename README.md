@@ -1,13 +1,13 @@
 # Instagram-reach-forecast
 This repository contains code for instagram reach forecasting using historical data and displaying results using SARIMA Model . This project uses Jupyter Notebook for analysis and model training. 
 # prerequisites
-Python 
-Jupyter notebook
-Pip
+1. Python 
+2. Jupyter notebook
+3. Pip
 # Setup instructions
-Make a virtual environment in jupyter notebook
-Include your dataset in your data directory
-Run the cells in the notebook to perform the analysis and model training
+1. Make a virtual environment in jupyter notebook
+2. Include your dataset in your data directory
+3. Run the cells in the notebook to perform the analysis and model training
 # Structure
 instagram-reach-forecasting/
 ├── data/
