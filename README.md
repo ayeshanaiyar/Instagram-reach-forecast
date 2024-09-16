@@ -4,6 +4,10 @@ This repository contains code for instagram reach forecasting using historical d
 1. Python 
 2. Jupyter notebook
 3. Pip
+# Libraries
+1. Pandas
+2. Matplotlib
+3. Statsmodels
 # Setup instructions
 1. Make a virtual environment in jupyter notebook
 2. Include the dataset in your data directory
